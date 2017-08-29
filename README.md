@@ -1,2 +1,2 @@
 # fizzbuzz-py
-simple fizzbuzz (python3)
+fizzbuzz (python3)
